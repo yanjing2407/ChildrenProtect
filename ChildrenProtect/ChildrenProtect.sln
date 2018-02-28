@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildrenProtect", "ChildrenProtect\ChildrenProtect.csproj", "{B6A4C472-4506-49FD-91BC-FF1E83EE1A56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A4C472-4506-49FD-91BC-FF1E83EE1A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A4C472-4506-49FD-91BC-FF1E83EE1A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A4C472-4506-49FD-91BC-FF1E83EE1A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A4C472-4506-49FD-91BC-FF1E83EE1A56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
